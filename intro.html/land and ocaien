@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HOMEPAGE</title>
+  <style>
+    .sd {
+          background-color:green;
+          text-align: center; 
+     }
+    
+     img {
+           height: 200px ; 
+           width: 200;
+     }
+     .header { 
+               background-color: chartreuse;
+               text-align: center;
+     }
+  </style>
+</head>
+<body>
+<div class="header">
+
+
+ 
+<div class="sd">
+  <h1>WELCOME TO MY <br> HOMEPAGE</h1>
+  <h3>use the menu to select difference stylesheet</h3>
+</div>
+<img src="sd.jpeg" alt="">
+<h3>stylesheet1</h3>
+<h3>stylesheet3</h3>
+<h3>stylesheet3</h3>
+<h3>no stylesheet</h3>
+<h1>The Land and the Ocean</h1>
+<h3>Temperature distribution and,above all,Temperature defferences very much depended on the distrubation of land and water surface.Differences in specifie heat moderate the tempature of regions close to great massesof water</h3></p>
+<h1>No stylesheet</h1>
+</div>
+
+
+
+
+    
+</body>
+</html>
